@@ -1,5 +1,3 @@
-## Salut 👋
-
 Je m'appelle **Quentyn**,  
 Concepteur Développeur d’Application diplômé, basé en France 🇫🇷  
 
