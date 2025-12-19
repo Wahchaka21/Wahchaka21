@@ -3,7 +3,7 @@ Concepteur Développeur d’Application diplômé, basé en France 🇫🇷
 
 Je développe principalement des applications web en **Angular** et **Node.js**.
 
-### 🛠️ Technologies
+### Technologies
 
 **Front-end**
 - Angular
